@@ -6,5 +6,12 @@
 
 <body>
   <h1>Hola</h1>
+  
+  <table>
+  <tr>Nombre</tr>
+  <tr>Apellidos</tr>
+</table>
+  
+  
 </body>
 </html>
