@@ -10,6 +10,8 @@
   <table>
   <tr>Nombre</tr>
   <tr>Apellidos</tr>
+  <tr>usuarioGithub</tr>
+  <tr>Enlace al hosting</tr>
 </table>
   
   
