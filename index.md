@@ -8,8 +8,10 @@
   <h1>Hola</h1>
   
   <table>
-  <tr>Nombre
-    <td>José</td>
+  <tr>
+    <td>Nombre</td>
+    <td>Jiménez Romero</td>
+      <td>josejimenezromero</td>
   </tr>
   
   <tr>Apellidos</tr>
