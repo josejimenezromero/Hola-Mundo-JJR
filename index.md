@@ -9,7 +9,9 @@
   
   <table>
   <tr>Nombre</tr>
+  <td>José</td>
   <tr>Apellidos</tr>
+  <td>Jiménez Romero</td>
   <tr>usuarioGithub</tr>
   <tr>Enlace al hosting</tr>
 </table>
