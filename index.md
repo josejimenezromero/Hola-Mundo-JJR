@@ -10,8 +10,9 @@
   <table>
   <tr>
     <td>Nombre</td>
-    <td>Jiménez Romero</td>
-      <td>josejimenezromero</td>
+    <td>Apellidos</td>
+      <td>UsuarioGithub</td>
+    <td>Enlace del hosting</td>
   </tr>
   
   <tr>Apellidos</tr>
