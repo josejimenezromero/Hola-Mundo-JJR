@@ -92,7 +92,7 @@
 <tr>
   <td>Anouar</td>
   <td></td>
-  <td>anouar-fp</td>
+  <td>anuar-fp</td>
   <td></td>
   <td></td>
 </tr>
