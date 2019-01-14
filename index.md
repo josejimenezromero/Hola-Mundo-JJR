@@ -12,14 +12,16 @@
   <tr>
     <td>Nombre</td>
     <td>Apellidos</td>
-      <td>UsuarioGithub</td>
+    <td>UsuarioGithub</td>
     <td>Enlace del hosting</td>
   </tr>
   
-  <tr>Apellidos</tr>
+  <tr>
+  <td>José</td>
   <td>Jiménez Romero</td>
-  <tr>usuarioGithub</tr>
-  <tr>Enlace al hosting</tr>
+  <td>josejimenezromero</td>
+  <td>https://josejimenezromero.github.io/Hola-Mundo-JJR/</td>
+  </tr>
   
   <tr>
   <td>1</td>
