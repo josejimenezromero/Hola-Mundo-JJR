@@ -19,6 +19,12 @@
   <td>Jiménez Romero</td>
   <tr>usuarioGithub</tr>
   <tr>Enlace al hosting</tr>
+  <tr>
+            <td>Jorge Rodríguez Mora</td>
+            <td>jorgermasir</td>
+            <td>https://jorgermasir.github.io/HolaMundoJorgeRodr-guezMora/</td>
+            <td>https://github.com/jorgermasir/HolaMundoJorgeRodr-guezMora/edit/master/index.html</td>
+ </tr>
 </table>
   
   
