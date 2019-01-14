@@ -19,6 +19,13 @@
   <td>Jiménez Romero</td>
   <tr>usuarioGithub</tr>
   <tr>Enlace al hosting</tr>
+  
+  <tr>
+            <td>Anouar Bettahi Berdai</td>
+            <td>anuar-fp</td>
+            <td><a href="https://anuar-fp.github.io/HolaMundoAnouarBettahiBerdai/">https://anuar-     fp.github.io/HolaMundoAnouarBettahiBerdai/</a></td>
+            <td><a href="https://github.com/anuar-FP/HolaMundoAnouarBettahiBerdai">https://github.com/anuar-FP/HolaMundoAnouarBettahiBerdai</a></td>
+        </tr>
 </table>
   
   
