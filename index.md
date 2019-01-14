@@ -14,6 +14,7 @@
     <td>Apellidos</td>
     <td>UsuarioGithub</td>
     <td>Enlace del hosting</td>
+    <td>Enlace al repositorio</td>
   </tr>
   
   <tr>
@@ -21,13 +22,39 @@
   <td>Jiménez Romero</td>
   <td>josejimenezromero</td>
   <td>https://josejimenezromero.github.io/Hola-Mundo-JJR/</td>
+  <td>https://github.com/josejimenezromero/Hola-Mundo-JJR/</td>
   </tr>
   
   <tr>
   <td>José David</td>
   <td>Villegas Mendoza</td>
   <td>josedavm</td>
+  <td>https://josedavm.github.io/HolaMundoJoseDavidVillegasMendoza/</td>
+  <td>https://github.com/josedavm/HolaMundoJoseDavidVillegasMendoza</td>
+</tr>
+
+<tr>
+  <td>Alfonso</td>
+  <td>Lopez</td>
+  <td>Alfonsoolopez</td>
+  <td>https://Alfonsoolopez/github.io/HolaMundoAlfonsoLopezLopez/MODIFICAR</td>
+  <td>https://github.com/Alfonsoolopez/HolaMundoAlfonsoLopezLopez/</td>
+</tr>
+
+<tr>
+  <td>Rafael Carlos</td>
+  <td>Díaz Mata</td>
+  <td>rafaeldiazmata</td>
   <td></td>
+  <td>https://github.com/rafaeldiazmata/HolaMundoRafaelCarlosDiazMata </td>
+</tr>
+
+<tr>
+  <td>Jorge</td>
+  <td>Rodríguez Mora</td>
+  <td>jorgermasir</td>
+  <td></td>
+  <td>https://github.com/jorgermasir/HolaMundoJorgeRodr-guezMora</td>
 </tr>
 
 </table>
