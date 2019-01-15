@@ -1,4 +1,10 @@
 table {
   border:"1px";
 background-color:#FC765A;
+  font-family: 'Lato', sans-serif;
 }
+
+body {
+background-color:#F5FC5A;
+}
+
